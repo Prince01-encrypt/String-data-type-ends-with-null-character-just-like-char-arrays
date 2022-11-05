@@ -1,0 +1,1 @@
+# String-data-type-ends-with-null-character-just-like-char-arrays
